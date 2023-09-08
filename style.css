@@ -12,20 +12,20 @@
   align-content: center;
 }
 .img1 {
-  background-image: url("unsplash__RBcxo9AU-U.png");
+  background-image: url("images/unsplash__RBcxo9AU-U.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
 .img2 {
-  background-image: url("section2.jpg");
+  background-image: url("images/section2.jpg");
   background-size: cover;
 }
 .img3 {
-  background-image: url("section3.jpg");
+  background-image: url("images/section3.jpg");
   background-size: cover;
 }
 .img4 {
-  background-image: url("LAST\ SECTION.jpg");
+  background-image: url("images/LAST\ SECTION.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
